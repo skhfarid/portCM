@@ -1,4 +1,4 @@
-import { section, span } from 'framer-motion/client'
+import { section, span } from 'framer-motion'
 import React from 'react'
 import { TypeAnimation } from 'react-type-animation'
 import Tilt from 'react-parallax-tilt'
