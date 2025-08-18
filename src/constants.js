@@ -216,7 +216,7 @@ export const SkillsInfo = [
         "Easy Being Green is a modern, eco-conscious platform that provides sustainable energy solutions. My role was to design and develop a user-friendly, visually appealing, and fully responsive website that aligns with the brand’s mission of promoting green living.",
       image: easyBeingGreen,
       tags: ["WordPress", "Elementor", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "#",
       webapp: "https://easybeinggreen.com.au/",
     },
     {
@@ -226,7 +226,7 @@ export const SkillsInfo = [
         "Blueblood Thoroughbreds is a premium racehorse syndication and sales platform that connects enthusiasts with high-quality thoroughbred ownership opportunities. My role involved designing and developing a sleek, accessible, and engaging website to highlight available horses, trainers, success stories, and behind-the-scenes updates.",
       image: bbt,
       tags: ["WordPress", "ACF Pro", "Elementor", "Slider Revulation", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "#",
       webapp: "https://bluebloodthoroughbreds.com.au//",
     },
     {
@@ -236,7 +236,7 @@ export const SkillsInfo = [
         "EasyJobBank is a user-centric online job portal designed to bridge job seekers and employers with an intuitive, feature-rich interface. My role encompassed crafting the front-end experience and developing backend functionality using WordPress with advanced custom fields and custom plugins tailored to recruitment workflows.",
       image: ejbLogo,
       tags: ["WordPress", "Elementor", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "#",
       webapp: "https://easyjobbank.com",
     },
     {
@@ -246,7 +246,7 @@ export const SkillsInfo = [
         "Gloria Cleaning is a professional cleaning service located in the Bronx, New York, offering residential, commercial, and specialized cleaning services across NYC, New Jersey, and beyond. I led the design and development of a clean, intuitive, and responsive WordPress site to improve user engagement and drive service bookings.",
       image: gloria,
       tags: ["WordPress", "Gravity Form", "Elementor", "SEO"],
-      github: "https://github.com/codingmastr/cmtk-email-validator",
+      github: "#",
       webapp: "https://gloriacleaning.com/",
     },
     {
@@ -256,7 +256,7 @@ export const SkillsInfo = [
         "Sandy’s Social is a boutique social media and digital marketing consultancy focused on helping small businesses build brand awareness and drive measurable growth. As Lead Web Designer & Developer, I crafted a polished, conversion-focused website to clearly showcase Sandy’s service offerings and simplify client acquisition.",
       image: sandyS,
       tags: ["Elementor", "WordPress", "Speed Optimization", "Motion Effect"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
+      github: "#",
       webapp: "https://sandyssocial.com/",
     },
     {
@@ -266,7 +266,7 @@ export const SkillsInfo = [
         "The Plumber site is designed to offer a polished and professional online presence for a plumbing service. My goal was to create a user-centric, high-conversion site that mirrors industry best practices—balancing trust, ease of interaction, and responsive design.",
       image: mrBlockage,
       tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
+      github: "#",
       webapp: "https://plumber.rokonline.com/",
     },
     {
@@ -276,7 +276,7 @@ export const SkillsInfo = [
         "Robert D Dental Clinic is a modern dental care provider offering general and cosmetic dentistry services. This site was designed to professionally showcase the clinic’s expertise, enhance patient trust, and streamline appointment scheduling.",
       image: rDen,
       tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
-      github: "https://codingmasterweb.in/",
+      github: "#",
       webapp: "https://robertdentalclinic.com/",
     },
     {
@@ -286,7 +286,7 @@ export const SkillsInfo = [
         "Extreme MMA is Melbourne’s premier martial arts and MMA fitness academy. The website positions the brand as a high-end training hub, showcasing a wide array of classes, world-class coaches, cutting-edge facilities, and community-driven programs—from juniors to pro-level athlete",
       image: MMA,
       tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
-      github: "https://github.com/codingmastr/Image-Search-App",
+      github: "#",
       webapp: "https://www.extrememma.com.au/",
     },
     {
@@ -296,7 +296,7 @@ export const SkillsInfo = [
         "LAv1 is a Los Angeles–based digital marketing agency specializing in small-business SEO, PPC, AI-driven solutions, and web design. The goal of this website development project was to showcase LAv1’s expertise—spanning WordPress and Shopify design, advanced SEO, and strategic marketing—while establishing a seamless conversion journey for clients.",
       image: lav1,
       tags: ["WordPress", "Elementor", "UI/UX", "SEO", "HTML", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Background-Remover",
+      github: "#",
       webapp: "https://lav1.com/",
     },
   ];  
