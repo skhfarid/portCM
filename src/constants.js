@@ -36,7 +36,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Experience Section Logo's
 import wtsLogo from './assets/company_logo/wtsLogo.png';
 import rokonlineLogo from './assets/company_logo/rokonlineLogo.png'
-import sfLogo from './assets/company_logo/logoSF.png';
+import sfLogo from './assets/company_logo/favicon.png';
 
 // Education Section Logo's
 import weDev from './assets/education_logo/htmlcssjs.png'
