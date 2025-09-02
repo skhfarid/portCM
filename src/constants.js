@@ -45,15 +45,15 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-import miniContext from 'src/assets/work_logo/miniContext.jpg';
-import slider from 'src/assets/work_logo/SLIDER.jpg';
-import portfocm from 'src/assets/work_logo/webdev.jpg';
-import htmlportfo from 'src/assets/work_logo/webdevPORTFOLIO.jpg';
-import passgenerator from 'src/assets/work_logo/Password.jpg';
-import bgchange from 'src/assets/work_logo/Background.jpg';
-import agencyWeb from 'src/assets/work_logo/agencyweb.jpg';
-import currencyConvert from 'src/assets/work_logo/currency.jpg';
-import weatherly from 'src/assets/work_logo/weatherly.jpg';
+import miniContext from './assets/work_logo/miniContext.jpg';
+import slider from './assets/work_logo/SLIDER.jpg';
+import portfocm from './assets/work_logo/webdev.jpg';
+import htmlportfo from './assets/work_logo/webdevPORTFOLIO.jpg';
+import passgenerator from './assets/work_logo/Password.jpg';
+import bgchange from './assets/work_logo/Background.jpg';
+import agencyWeb from './assets/work_logo/agencyweb.jpg';
+import currencyConvert from './assets/work_logo/currency.jpg';
+import weatherly from './assets/work_logo/weatherly.jpg';
 
 
 export const SkillsInfo = [
