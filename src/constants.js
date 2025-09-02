@@ -45,13 +45,13 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-import mini from 'src/assets/work_logo/MINI context.jpg';
+import mini from 'src/assets/work_logo/MINI_context.jpg';
 import slider from 'src/assets/work_logo/SLIDER.jpg';
 import portfocm from 'src/assets/work_logo/webdev.jpg';
-import htmlportfo from 'src/assets/work_logo/webdev PORTFOLIO.jpg';
+import htmlportfo from 'src/assets/work_logo/webdevPORTFOLIO.jpg';
 import passgenerator from 'src/assets/work_logo/Password.jpg';
 import bgchange from 'src/assets/work_logo/Background.jpg';
-import agencyWeb from 'src/assets/work_logo/agency web.jpg';
+import agencyWeb from 'src/assets/work_logo/agencyweb.jpg';
 import currencyConvert from 'src/assets/work_logo/currency.jpg';
 import weatherly from 'src/assets/work_logo/weatherly.jpg';
 
