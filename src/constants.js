@@ -220,9 +220,9 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Easy Being Green",
+      title: "Mini Context",
       description:
-        "Easy Being Green is a modern, eco-conscious platform that provides sustainable energy solutions. My role was to design and develop a user-friendly, visually appealing, and fully responsive website that aligns with the brand’s mission of promoting green living.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
       image: mini,
       tags: ["React", "HTML", "Redux", "CSS", "JavaScript"],
       github: "#",
