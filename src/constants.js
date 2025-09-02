@@ -45,24 +45,15 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-// import easyBeingGreen from './assets/work_logo/EASY BEING GREEN (1).jpg';
-// import bbt from "./assets/work_logo/Blueblood.jpg";
-// import ejbLogo from './assets/work_logo/EASY jOB bANK.jpg'
-// import gloria from "./assets/work_logo/Gloria Cleaning.jpg"
-// import sandyS from './assets/work_logo/Sandys Social.jpg'
-// import mrBlockage from "./assets/work_logo/Mr Blockage.jpg"
-// import rDen from './assets/work_logo/3D Dentistry Robert D Nguyen DDS INC...jpg'
-// import MMA from './assets/work_logo/mma.jpg'
-// import lav1 from './assets/work_logo/lav1.jpg'
-import mini from 'src/assets/work_logo/MINI context.jpg'
-import slider from 'src/assets/work_logo/SLIDER.jpg'
-import portfocm from 'src/assets/work_logo/webdev.jpg'
-import htmlportfo from 'src/assets/work_logo/webdev PORTFOLIO.jpg'
-import passgenerator from 'src/assets/work_logo/Password.jpg'
-import bgchange from 'src/assets/work_logo/Background.jpg'
-import agencyWeb from 'src/assets/work_logo/agency web.jpg'
-import currencyConvert from 'src/assets/work_logo/currency.jpg'
-import weatherly from 'src/assets/work_logo/weatherly.jpg'
+import mini from 'src/assets/work_logo/MINI context.jpg';
+import slider from 'src/assets/work_logo/SLIDER.jpg';
+import portfocm from 'src/assets/work_logo/webdev.jpg';
+import htmlportfo from 'src/assets/work_logo/webdev PORTFOLIO.jpg';
+import passgenerator from 'src/assets/work_logo/Password.jpg';
+import bgchange from 'src/assets/work_logo/Background.jpg';
+import agencyWeb from 'src/assets/work_logo/agency web.jpg';
+import currencyConvert from 'src/assets/work_logo/currency.jpg';
+import weatherly from 'src/assets/work_logo/weatherly.jpg';
 
 
 export const SkillsInfo = [
@@ -216,7 +207,8 @@ export const SkillsInfo = [
     //   degree: "CBSE(X), Science with Computer Application",
     // },
   ];
-  
+
+
   export const projects = [
     {
       id: 0,
@@ -230,82 +222,82 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Blue Blood Throughbreds",
+      title: "Watch Slider",
       description:
-        "Blueblood Thoroughbreds is a premium racehorse syndication and sales platform that connects enthusiasts with high-quality thoroughbred ownership opportunities. My role involved designing and developing a sleek, accessible, and engaging website to highlight available horses, trainers, success stories, and behind-the-scenes updates.",
-      image: bbt,
-      tags: ["WordPress", "ACF Pro", "Elementor", "Slider Revulation", "HTML", "CSS"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: slider,
+      tags: ["React", "UI/UX", "Redux", "Javascript", "HTML", "CSS"],
       github: "#",
-      webapp: "https://bluebloodthoroughbreds.com.au//",
+      webapp: "https://watchslider.vercel.app/",
     },
     {
       id: 2,
-      title: "Easy Job Bank",
+      title: "Portfolio with React",
       description:
-        "EasyJobBank is a user-centric online job portal designed to bridge job seekers and employers with an intuitive, feature-rich interface. My role encompassed crafting the front-end experience and developing backend functionality using WordPress with advanced custom fields and custom plugins tailored to recruitment workflows.",
-      image: ejbLogo,
-      tags: ["WordPress", "Elementor", "HTML", "CSS", "JavaScript"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: portfocm,
+      tags: ["React", "Reactbits", "HTML", "CSS", "JavaScript"],
       github: "#",
-      webapp: "https://easyjobbank.com",
+      webapp: "https://portfocm.vercel.app/",
     },
     {
       id: 3,
-      title: "Gloria Cleaning Service",
+      title: "WebDev Portfolio",
       description:
-        "Gloria Cleaning is a professional cleaning service located in the Bronx, New York, offering residential, commercial, and specialized cleaning services across NYC, New Jersey, and beyond. I led the design and development of a clean, intuitive, and responsive WordPress site to improve user engagement and drive service bookings.",
-      image: gloria,
-      tags: ["WordPress", "Gravity Form", "Elementor", "SEO"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: htmlportfo,
+      tags: ["HTML", "CSS", "JS"],
       github: "#",
-      webapp: "https://gloriacleaning.com/",
+      webapp: "https://htmlportfo.vercel.app/",
     },
     {
       id: 4,
-      title: "Sandy’s Social",
+      title: "Password Generator",
       description:
-        "Sandy’s Social is a boutique social media and digital marketing consultancy focused on helping small businesses build brand awareness and drive measurable growth. As Lead Web Designer & Developer, I crafted a polished, conversion-focused website to clearly showcase Sandy’s service offerings and simplify client acquisition.",
-      image: sandyS,
-      tags: ["Elementor", "WordPress", "Speed Optimization", "Motion Effect"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: passgenerator,
+      tags: ["Reactr", "Vite", "API", "HTML", "CSS"],
       github: "#",
-      webapp: "https://sandyssocial.com/",
+      webapp: "https://passwordgenerator-chi-steel.vercel.app/",
     },
     {
       id: 5,
-      title: "Mr Blockage",
+      title: "Background Changer",
       description:
-        "The Plumber site is designed to offer a polished and professional online presence for a plumbing service. My goal was to create a user-centric, high-conversion site that mirrors industry best practices—balancing trust, ease of interaction, and responsive design.",
-      image: mrBlockage,
-      tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: bgchange,
+      tags: ["HTML", "React", "UI/UX", "Vite"],
       github: "#",
-      webapp: "https://plumber.rokonline.com/",
+      webapp: "https://bgchanger-ebon.vercel.app/",
     },
     {
       id: 6,
-      title: "Robert D Dental Clinic",
+      title: "Agency Web",
       description:
-        "Robert D Dental Clinic is a modern dental care provider offering general and cosmetic dentistry services. This site was designed to professionally showcase the clinic’s expertise, enhance patient trust, and streamline appointment scheduling.",
-      image: rDen,
-      tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: agencyWeb,
+      tags: ["Typscript", "HTML", "UI/UX", "CSS"],
       github: "#",
-      webapp: "https://robertdentalclinic.com/",
+      webapp: "https://agency-web-dev.vercel.app/",
     },
     {
       id: 7,
-      title: "Extreme MMA",
+      title: "Currency Converter",
       description:
-        "Extreme MMA is Melbourne’s premier martial arts and MMA fitness academy. The website positions the brand as a high-end training hub, showcasing a wide array of classes, world-class coaches, cutting-edge facilities, and community-driven programs—from juniors to pro-level athlete",
-      image: MMA,
-      tags: ["WordPress", "Elementor", "UI/UX", "SEO"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: currencyConvert,
+      tags: ["React", "Vite", "JS", "API"],
       github: "#",
-      webapp: "https://www.extrememma.com.au/",
+      webapp: "https://currencyconverter-brown-mu.vercel.app/",
     },
     {
       id: 8,
-      title: "LAv1",
+      title: "Weather App",
       description:
-        "LAv1 is a Los Angeles–based digital marketing agency specializing in small-business SEO, PPC, AI-driven solutions, and web design. The goal of this website development project was to showcase LAv1’s expertise—spanning WordPress and Shopify design, advanced SEO, and strategic marketing—while establishing a seamless conversion journey for clients.",
-      image: lav1,
-      tags: ["WordPress", "Elementor", "UI/UX", "SEO", "HTML", "CSS", "Javascript"],
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      image: weatherly,
+      tags: ["React", "Vite", "UI/UX", "API", "HTML", "CSS", "Javascript"],
       github: "#",
-      webapp: "https://lav1.com/",
+      webapp: "https://weatherly-psi-five.vercel.app/",
     },
   ];  
