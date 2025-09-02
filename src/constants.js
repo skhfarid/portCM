@@ -45,7 +45,7 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-import mini from 'src/assets/work_logo/mini_context.jpg';
+import miniContext from 'src/assets/work_logo/miniContext.jpg';
 import slider from 'src/assets/work_logo/SLIDER.jpg';
 import portfocm from 'src/assets/work_logo/webdev.jpg';
 import htmlportfo from 'src/assets/work_logo/webdevPORTFOLIO.jpg';
@@ -215,7 +215,7 @@ export const SkillsInfo = [
       title: "Mini Context",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-      image: mini,
+      image: miniContext,
       tags: ["React", "HTML", "Redux", "CSS", "JavaScript"],
       github: "#",
       webapp: "https://minicontext-eta.vercel.app//",
