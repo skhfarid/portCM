@@ -45,15 +45,24 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-import easyBeingGreen from './assets/work_logo/EASY BEING GREEN (1).jpg';
-import bbt from "./assets/work_logo/Blueblood.jpg";
-import ejbLogo from './assets/work_logo/EASY jOB bANK.jpg'
-import gloria from "./assets/work_logo/Gloria Cleaning.jpg"
-import sandyS from './assets/work_logo/Sandys Social.jpg'
-import mrBlockage from "./assets/work_logo/Mr Blockage.jpg"
-import rDen from './assets/work_logo/3D Dentistry Robert D Nguyen DDS INC...jpg'
-import MMA from './assets/work_logo/mma.jpg'
-import lav1 from './assets/work_logo/lav1.jpg'
+// import easyBeingGreen from './assets/work_logo/EASY BEING GREEN (1).jpg';
+// import bbt from "./assets/work_logo/Blueblood.jpg";
+// import ejbLogo from './assets/work_logo/EASY jOB bANK.jpg'
+// import gloria from "./assets/work_logo/Gloria Cleaning.jpg"
+// import sandyS from './assets/work_logo/Sandys Social.jpg'
+// import mrBlockage from "./assets/work_logo/Mr Blockage.jpg"
+// import rDen from './assets/work_logo/3D Dentistry Robert D Nguyen DDS INC...jpg'
+// import MMA from './assets/work_logo/mma.jpg'
+// import lav1 from './assets/work_logo/lav1.jpg'
+import mini from 'src/assets/work_logo/MINI context.jpg'
+import slider from 'src/assets/work_logo/SLIDER.jpg'
+import portfocm from 'src/assets/work_logo/webdev.jpg'
+import htmlportfo from 'src/assets/work_logo/webdev PORTFOLIO.jpg'
+import passgenerator from 'src/assets/work_logo/Password.jpg'
+import bgchange from 'src/assets/work_logo/Background.jpg'
+import agencyWeb from 'src/assets/work_logo/agency web.jpg'
+import currencyConvert from 'src/assets/work_logo/currency.jpg'
+import weatherly from 'src/assets/work_logo/weatherly.jpg'
 
 
 export const SkillsInfo = [
@@ -214,10 +223,10 @@ export const SkillsInfo = [
       title: "Easy Being Green",
       description:
         "Easy Being Green is a modern, eco-conscious platform that provides sustainable energy solutions. My role was to design and develop a user-friendly, visually appealing, and fully responsive website that aligns with the brand’s mission of promoting green living.",
-      image: easyBeingGreen,
-      tags: ["WordPress", "Elementor", "HTML", "CSS", "JavaScript"],
+      image: mini,
+      tags: ["React", "HTML", "Redux", "CSS", "JavaScript"],
       github: "#",
-      webapp: "https://easybeinggreen.com.au/",
+      webapp: "https://minicontext-eta.vercel.app//",
     },
     {
       id: 1,
