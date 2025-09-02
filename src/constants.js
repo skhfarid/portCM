@@ -45,7 +45,7 @@ import rpi from './assets/education_logo/rpi-logo.png';
 import chatLogo from './assets/education_logo/chatgpt-removebg-preview.png';
 
 // Project Section Logo's
-import mini from 'src/assets/work_logo/MINI_context.jpg';
+import mini from 'src/assets/work_logo/mini_context.jpg';
 import slider from 'src/assets/work_logo/SLIDER.jpg';
 import portfocm from 'src/assets/work_logo/webdev.jpg';
 import htmlportfo from 'src/assets/work_logo/webdevPORTFOLIO.jpg';
